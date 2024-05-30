@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LimaData", "LimaData\LimaData.sqlproj", "{100F77B6-248C-4A5A-B9F4-1335BE8B5814}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "limaposfrontend", "LimaPOSFrontEnd\limaposfrontend.esproj", "{97527861-D22B-4E42-9AA7-E41166648A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{100F77B6-248C-4A5A-B9F4-1335BE8B5814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{100F77B6-248C-4A5A-B9F4-1335BE8B5814}.Release|Any CPU.Build.0 = Release|Any CPU
 		{100F77B6-248C-4A5A-B9F4-1335BE8B5814}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97527861-D22B-4E42-9AA7-E41166648A0B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
